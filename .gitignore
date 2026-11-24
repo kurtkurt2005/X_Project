@@ -1,0 +1,4 @@
+.env
+/.automation/webhook.env
+/.automation/cloud.lock
+/.automation/workspace.lock
